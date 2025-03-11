@@ -52,7 +52,9 @@ npm install
 
 After installing the dependencies, run app:
 
+```sh
 npm run dev
+```
 
 Open your browser and navigate to http://localhost:3000 to view the application. You can interact with the components to see how the Context API manages and shares state across the application.
 
