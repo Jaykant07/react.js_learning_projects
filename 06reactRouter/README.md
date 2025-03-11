@@ -53,7 +53,7 @@ npm install
 After installing the dependencies, run app:
 
 ```sh
-npm dev
+npm run dev
 ```
 
 Open your browser and navigate to http://localhost:3000 to view the application. You can use the navigation links to switch between different routes and observe how React Router manages the component rendering based on the URL.
