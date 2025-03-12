@@ -78,9 +78,15 @@ The project structure is organized as follows:
 ```
 
 public/index.html: The main HTML file.
+
 src/components/: Contains React components, including the theme toggle functionality.
+
 src/context/ThemeContext.js: Manages the current theme state using the Context API.
+
 src/themes/: Defines the styling for both light and dark themes.
+
 src/index.js: The entry point of the React application.
+
 src/App.css: Global styling for the application.
+
 package.json: Lists the project dependencies and scripts.
